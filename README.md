@@ -1,2 +1,5 @@
 # Wizzie
-Hosted on Heroku !
+    - Use `` npm init ``
+    
+  - Made by DarkCloud Team 
+  
